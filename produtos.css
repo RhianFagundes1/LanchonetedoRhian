@@ -1,6 +1,10 @@
 header{
-  background-color: #BBBBBB;
+  background-image: url('laranja.png');
+  background-size: cover;
   padding: 20px 0;
+}
+img.benner{
+width: 27%;  
 }
 .caixa{
   width: 940px;
@@ -35,6 +39,9 @@ nav a:hover{
   width: 940px;
   margin: 0 auto;
   padding: 50px;
+}
+.produtos img{
+  width: 55%;
 }
 .produtos h2{
   font-size: 30px;
@@ -73,9 +80,9 @@ nav a:hover{
 }
 
 footer{
-  background: url("bg.jpg");
+  background-image: url(laranja.png);
   text-align: center;
-  padding: 48px 0;
+  padding: 38px 0;
 }
 .copyright {
   color: #FFFFFF;
