@@ -1,6 +1,5 @@
 header{
-  background-image: url('laranja.png');
-  background-size: cover;
+  background-color: orangered;
   padding: 20px 0;
 }
 img.benner{
@@ -80,7 +79,7 @@ nav a:hover{
 }
 
 footer{
-  background-image: url(laranja.png);
+  background: #000000;
   text-align: center;
   padding: 38px 0;
 }
@@ -91,7 +90,6 @@ footer{
 }
 
 main{
-  width: 940px;
   margin: 0 auto;
 }
 
@@ -137,4 +135,11 @@ thead{
 th, td {
   border: 1px solid #555555;
   padding: 8px 15px;
+}
+
+p.eu{
+  color: white;
+}
+img.eu{
+  width: 10%;
 }
